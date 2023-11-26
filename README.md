@@ -2,7 +2,7 @@
 
 ## I'm beginner developer
 
-**Language and tools**
+**Language and tools :**
 ![Docker-compouse](https://img.shields.io/badge/Docker-compouse-blue)
 ![PostgresSQl](https://img.shields.io/badge/PostgresSQL%20%20-8A2BE2)
 ![Java](https://img.shields.io/badge/Java%20-4FE5F6?style=for-the-badge&logo=java)
