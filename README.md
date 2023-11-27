@@ -5,6 +5,8 @@
 **Language and tools:**
 ![Docker-compouse](https://img.shields.io/badge/Docker-compouse-blue)
 ![PostgresSQl](https://img.shields.io/badge/PostgresSQL%20%20-8A2BE2)
+![Git](https://img.shields.io/badge/Git%20%20-orange)
+![GitHub](https://img.shields.io/badge/GitHub%20%20-black)
 ![Java](https://img.shields.io/badge/Java%20-4FE5F6?style=for-the-badge&logo=java)
 
 ### Follow me:iphone:
