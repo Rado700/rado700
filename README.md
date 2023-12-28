@@ -11,5 +11,5 @@
 
 ### Follow me:iphone:
 
-[![Vkontakte](https://img.shields.io/badge/Vkontakte%20%20-blue)](https://vk.com/radikgalimov2014)
+
 [![Telegram](https://img.shields.io/badge/Telegram-white?logo=telegram)](https://t.me/raxary)
